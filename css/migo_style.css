@@ -335,8 +335,13 @@ body {
     float:left;
     padding:0 10px;
 }
+
+.footer-logo {
+  padding-left: 10px;
+}
 .footer-menu {
-    margin-left:-10px;
+    margin-left:0px;
+    padding: 0 0;
 }
 .footer-menu li {
     display: inline-block;
